@@ -9,7 +9,7 @@
 I’m passionate about using data to build intelligent solutions in **analytics, machine learning, and AI**.  
 Currently focused on **Generative AI, LLMs, applied machine learning**, and tools like **Azure and Databricks**.  
 
-📍 Based in Canada | 🌐 Always open to collaboration and learning  
+🌐 Always open to collaboration and learning  
 
 
 ## 🔧 Currently working with & exploring  
