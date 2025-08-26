@@ -11,7 +11,6 @@ Currently focused on **Generative AI, LLMs, applied machine learning**, and tool
 
 📍 Based in Canada | 🌐 Always open to collaboration and learning  
 
----
 
 ## 🔧 Currently working with & exploring  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)  
