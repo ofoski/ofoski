@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ali Hosein Ghanemi  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hosein-ghanemi/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ofoski) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=mOKMENAAAAAJ&hl=en&oi=ao) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayan.ghanemi@gmail.com)  
 
