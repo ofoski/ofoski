@@ -11,7 +11,6 @@ Currently focused on **Generative AI, LLMs, applied machine learning**, and tool
 
 🌐 Always open to collaboration and learning  
 
----
 
 ### 🔧 Currently working with & exploring  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
