@@ -6,7 +6,7 @@
 
 🎯 **Data Scientist | Machine Learning & Generative AI Enthusiast | Data Analyst**  
 
-I’m passionate about using data to build intelligent solutions in **analytics, machine learning, and AI**.  
+I am passionate about using data to build intelligent solutions in **analytics, machine learning, and AI**.  
 Currently focused on **Generative AI, LLMs, applied machine learning**, and tools like **Azure and Databricks**.  
 
 🌐 Always open to collaboration and learning  
