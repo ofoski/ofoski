@@ -1,4 +1,4 @@
-## 👋 Hi There, I'm Ali Hosein Ghanemi  
+## 👋 Hi There, I am Ali Hosein Ghanemi  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hosein-ghanemi/) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=mOKMENAAAAAJ&hl=en&oi=ao) 
